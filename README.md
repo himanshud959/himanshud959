@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshud959&label=Profile%20views&color=0e75b6&style=flat" alt="himanshud959" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshud959" alt="himanshud959" /></a> </p>
+<summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshud959&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 - 📫 How to reach me: [linkedin:@Himanshu](https://www.linkedin.com/in/himanshu-dubey-b79210204/) , [Facebook:@Himanshu](https://www.facebook.com/himanshu.dubey.7169709) , [Instagram@Himanshu](https://www.instagram.com/himanshudubey08/?utm_medium=copy_link)
 
